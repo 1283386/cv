@@ -1,4 +1,4 @@
-## Artyom Iartcev*
+## Artyom Iartcev
 
 ### Linux systems administrator
 Moscow
