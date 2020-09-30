@@ -10,7 +10,8 @@ Moscow
 - Linux (CentOS, Debian)
 - Ansible, Molecule
 - Postgresql, MySQL
-- Nginx
+- Redis Cluster, RabbitMQ, Kafka
+- Nginx, HAProxy
 
 ### Other skills:
 - Bash, Python
@@ -18,11 +19,19 @@ Moscow
 
 ## Professional experience:
 
-### 11/2017 - Present: UNIX systems administrator, MailRu Group:
+### 11/2017 - 03/2020: System Administrator Team Lead (DeliveryCLub project), MailRu Group:
+- Developed project infrastructure, performed fault tolerance and capacity planning and budgeting.
+- Built OPS team for the project: interviews, onboarding, education, responsibility zones distribution.
+- Performed full scale of project maintenance, from faulty deploy debugging to moving applications to Kubernetes.
+- Took part in performance analysis and tuning (postgres, dns, network, hardware related issues).
+- Integrated new technologies to production environment (switching to asynchronous model with kafka, postgres autofailover with patroni)
+
+### 11/2017 - 03/2020: UNIX systems administrator, MailRu Group:
 - Automated deployment for Delivery Club, Pandao.ru and other projects.
 - Set up new production services, wrote deploy automation and tests for it.
 - Took part in maintaining corporate infrastructure (radius, ldap, vpn, gitlab).
-- Used: centos, ubuntu, nginx, haproxy, postgresql, mysql, redis, ansible, molecule, prometheus, graphite, xen, kvm, docker.
+- Developed monitoring scripts to comply with Information Security team 
+- Used: centos, ubuntu, nginx, haproxy, postgresql, mysql, minio s3, redis, ansible, molecule, prometheus, graphite, xen, kvm, docker.
 
 ### 04/2014 - 11/2017: Senior systems administrator, B2B-Center:
 - Maintained development infrastructure, automated staging environments creation.
