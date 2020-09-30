@@ -1,6 +1,6 @@
 ## Artyom Iartcev
 
-### System Administratior Team Lead
+### System Administrator Team Lead
 Moscow
 - Cell: +7 (926) 335 41 14
 - Email: 1283386@gmail.com
