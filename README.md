@@ -1,6 +1,6 @@
 ## Artyom Iartcev
 
-### Linux systems administrator
+### System Administratior Team Lead
 Moscow
 - Cell: +7 (926) 335 41 14
 - Email: 1283386@gmail.com
@@ -22,6 +22,7 @@ Moscow
 ### 11/2017 - 03/2020: System Administrator Team Lead (DeliveryCLub project), MailRu Group:
 - Developed project infrastructure, performed fault tolerance and capacity planning and budgeting.
 - Built OPS team for the project: interviews, onboarding, education, responsibility zones distribution.
+- Took responsibility for incident handling (coordination, mitigation, recovery, analysis).
 - Performed full scale of project maintenance, from faulty deploy debugging to moving applications to Kubernetes.
 - Took part in performance analysis and tuning (postgres, dns, network, hardware related issues).
 - Integrated new technologies to production environment (switching to asynchronous model with kafka, postgres autofailover with patroni)
